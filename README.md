@@ -1,2 +1,2 @@
 # Satellite-CANSAT
-All codes of the satellite for CANSAT 2023 Azerbaijan
+Here contains all the codes written for the satellite to work for CANSAT 2023 Azerbaijan
