@@ -1,7 +1,7 @@
-# CANSAT Azerbaijan 2023 - CanStellar Team Project
+# CANSAT Azerbaijan 2023 & CANSAT US 2024 - CanStellar Team Project
 
 ## Project Overview
-This repository contains the complete codebase for the CanStellar team's winning entry in the CANSAT Azerbaijan 2023 model satellite competition by AzerCosmos. The project consists of two main components: the Satellite System and the Ground Station (YIS).
+This repository contains the complete codebase for the CanStellar team's winning entry in the CANSAT Azerbaijan 2023 model satellite competition by AzerCosmos and CANSAT Global in United Stated 2024. The project consists of two main components: the Satellite System and the Ground Station (YIS).
 
 ## Project Structure
 ```
@@ -95,6 +95,7 @@ TeamID,WorkingTime,PackageCount,Voltage,Altitude,Speed,Latitude,Longitude,Separa
 ## Awards
 - 1st Place in CANSAT Azerbaijan 2023
 - Prize: 6000 AZN
+- First team from Azerbaijan in Global CANSAT US 2024
 
 ## Contributors
 - Team CanStellar
