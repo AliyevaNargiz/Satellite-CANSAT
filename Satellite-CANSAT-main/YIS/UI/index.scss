@@ -1,0 +1,65 @@
+#header{
+
+    height: 125px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+    #logo{
+
+        max-height: 130px;
+        padding: 20px;
+    }
+}
+
+#main{
+    display: inline-block;
+    
+    height: auto;
+    background-repeat: repeat;
+    background-size: contain;
+    height: 2000px;
+background-image: url("./assets/background.png");
+#databox{
+    border-radius: 10px;
+    margin-top: 100px;
+    background-color: rgba(255, 255, 255, 0.9);
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    flex-wrap: wrap;
+    #tele-data{
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        transition-duration: 1s;
+        &:hover{
+            transition-duration: 1s;
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        }
+        background-color: rgba(255, 255, 255, 0.7);
+        border-radius: 10px;
+        margin: 30px;
+        max-width:fit-content;
+        border-color: black;
+        border-width: 1px;
+        display: flex;
+        flex-direction: column;
+        align-items: baseline;
+        gap: 20px;
+        #raw-telemetric-data{
+            color: black;
+            font-size: 15px;
+            font-weight: bold;
+            margin: 15px;
+        }
+        h6{
+            color: black;
+            font-weight: bold;
+        }
+        #telemetric-data-list{
+         padding-left: 15px;
+        }
+    }
+}
+}
